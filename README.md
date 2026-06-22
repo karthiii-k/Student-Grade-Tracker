@@ -17,3 +17,6 @@ A command-line student grade management system built with Python.
 - JSON File Storage
 - Object-Oriented Programming
 
+## How to Run
+python sgt.py
+
